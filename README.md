@@ -3,9 +3,9 @@ In class assignments for Data Structures at Portland State University
 
 Projects developed in the Linux Environment prior to learning about version control
 
-Data Structures Implemented:
-HW1-Linear Linked List
-HW2-Linear Linked List of Arrays and Circular Linked Lists
-HW3-Hash Table
-HW4-Binary Search Tree
-HW5-Graph
+##Data Structures Implemented:
+1. HW1-Linear Linked List
+2. HW2-Linear Linked List of Arrays and Circular Linked Lists
+3. HW3-Hash Table
+4. HW4-Binary Search Tree
+5. HW5-Graph
